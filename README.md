@@ -7,11 +7,15 @@ you can create a pytorch file to use API
 if you want to detect a photo
 you can use the order by
 
-  import  detect
-  detect.run(source="data/images/...")
+```python
+import  detect
+detect.run(source="data/images/...")
+```
 
 if you want to detect a vedio
 you can use the order by
 
-  import detect
-  detect.run(source="data/images/...")
+```python
+import detect
+detect.run(source="data/images/...")
+```
