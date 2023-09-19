@@ -6,12 +6,12 @@
 
 ```python
 import detect
-detect.run(source="data/images")
+detect.run(source="data/images/...")
 ```
 
 如果检测的是视频使用以下命令
 
 ```python
 import detect
-detect.run(source="data/vedio")
+detect.run(source="data/vedio/...")
 ```
