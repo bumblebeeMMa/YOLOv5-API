@@ -17,5 +17,5 @@ you can use the order by
 
 ```python
 import detect
-detect.run(source="data/images/...")
+detect.run(source="data/vedios/...")
 ```
